@@ -14,7 +14,7 @@ group repository for 6 members who want to study basic AI basic concept
 모든 코드와 개념에 대한 공부가 완벽히 끝나는 때를 마지막으로 스터디는 종료되며  
 기한은 약 1달 내지는 1달 반을 목표로 잡고 있습니다.  
   
-#### 스터디 방법  
+### 스터디 방법  
 1. 해당 주차에 학습해야할 분량을 미리 정합니다.  
   
 2. 한 주 동안 교재의 이론을 공부하고, 코드를 직접 jupyterlab 등에 기입하여 실행해봅니다.  
