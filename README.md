@@ -28,3 +28,7 @@ group repository for 6 members who want to study basic AI basic concept
 5. 공부한 ipynb파일을 AI_STUDY repository의 본인 이름과 매칭되는 branch에 업로드합니다. (master branch를 수정하지 않도록 주의!)  
   
 6. 학습 도중 추가로 조사하여 나누고 싶은 자료가 있다면 공유해주세요. 환영합니다.  
+  
+### 과제기록
+2020.09.22 : 머신러닝완벽가이드 1,2단원 공부 -> 09.30일 자정까지 github 본인 branch에 제출
+(파일명은 chapter1, chapter01 다 좋습니다. 챕터만 확인할 수 있으면 상관없습니다.)
